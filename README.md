@@ -1,0 +1,2 @@
+# Hole-Detector
+1-Our graduation project is automation of assembly line in a factory  2-using robotic arms 3-in order for the arm to go to the hole to apply the screw a camera will be attached over the object  4-our code takes a photo - turn it to greyscale                          - turn it to binary                  - makes a loop to detect the corners of the circle in each rowt                   - the checks by another loop at 45degree angle
